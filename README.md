@@ -1,2 +1,3 @@
 # andromedary_sources
-taken from http://www.pouet.net/prod.php?which=25756
+
+source code from Andromedary / tAAt, #2 4k @ Assembly 2006 http://www.pouet.net/prod.php?which=25756
